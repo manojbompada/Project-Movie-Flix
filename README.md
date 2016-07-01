@@ -1,2 +1,5 @@
 # Project-Movie-Flix
-This project involves in developing a movie flix website similar to netflix with REST API (SpringMVC, hibernate, MySql) as back-end and AngularJS, HTML/CSS as front-end
+This is a movie flix website similar to netflix. Website shows various movies with their corresponding attributes such as reviews, ratings, actors etc.;  
+Development Environment:
+Back-end: REST API (SpringMVC, JPA/hibernate, MySql)  
+Front-end: AngularJS, HTML/CSS, npm, bower
